@@ -263,8 +263,8 @@ figure {
 img {
   max-width: 50%;
   background-color: #2B66ED;
-  
-  border-radius: 3em;
+  border-radius: 1.5em;
+  border-bottom-right-radius: 0;
 }
 figcaption, cite {
   display: inline-block;
@@ -345,8 +345,9 @@ button {
   transform: rotate(-2deg);
 }
 .workimg{
-  background-color: unset;
+  background-color: rgb(224, 231, 238);
   max-width: 100%;
+  border-top-left-radius: 0;
 }
 
 .skills{
