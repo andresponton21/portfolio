@@ -90,7 +90,7 @@ h2::after {
   content: " \221E";
   transform: rotate(-45deg);
   display: inline-block;
-  color: var(--col-accent);
+  color: #2B66ED;
   text-shadow: -0.1rem 0.2rem 0 var(--col-a-light);
   opacity: 0;
   cursor: pointer;
