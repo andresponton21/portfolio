@@ -487,3 +487,9 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 }
+
+@media screen and (max-width: 500px) {
+  .head-grid {
+    display: block;
+  }
+}
